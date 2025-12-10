@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Antoine !
 
 ## 🚀 About Me
-I am please to be a Computer Science's student at Leeds Beckett University and, I am affectionate about everything 
-related to computing. I am currently:
+### I am please to be a Computer Science's student at Leeds Beckett University and, I am affectionate about everything related to computing. I am currently:
 - 🌱 Learning and developing: Fundamental concepts of computer science
 - 💻 Working on: python project
 - 🤝 Open to collaborating on: Any other python project

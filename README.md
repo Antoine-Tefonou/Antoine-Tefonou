@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Antoine !
 
-<!--
-**Antoine-Tefonou/Antoine-Tefonou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Fundamental concepts of computer science
+- 💻 Working on: python project
+- 🤝 Open to collaborating on: Any other python project
+- 📫 Reach me on my student email: a.tefonounoubissi7834@student.leedsbeckett.ac.uk
+- 📫 or on my personal email: loicelton@yahoo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+
+Languages: Python, JavaScript, C++
+Frameworks: React, Node.js, Django
+Tools: Git, Pycharm, VS Code
+📂 Current Projects
+
+## Exploration
+
+I am currently exploring different field of computer Science in other to jump into the one my passion will take me.
+
+# 📊 GitHub Stats

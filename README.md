@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
    *I am currently a Leeds Beckett University' student, from my youngest age I always endeavour to use logic to solve problems, so growing up this way I started 
-falling deeper and deeper in love with everything related to numbers and from half secondary school I was oriented in science's subjects where solving complex 
+falling deeper and deeper in love with everything related to numbers and from half secondary school I was oriented in  science's subjects where solving complex 
 problems need breaking them into parts in order to get an efficient and prompt solution. This is of course what drew me to love Computer Science. starting
 programming allowed me to develop further all my fundamentals knowledge on software and hardware I already acquired from computer system, and algorithmic. 
 This will help me to understand more efficient in software program and surely lots of computer's concepts.*

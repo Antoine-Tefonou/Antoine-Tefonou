@@ -12,6 +12,7 @@
 - Languages: Python, JavaScript, C++
 - Frameworks: React, Node.js, Django
 - Tools: Git, Pycharm, VS Code
+- Operating Systems: Windows, Linux(Ubuntu).
   
 ## 📂 Current Projects
 I am currently working on a project about customers management.
